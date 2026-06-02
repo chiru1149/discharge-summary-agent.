@@ -1,2 +1,11 @@
-# discharge-summary-agent.
-Agentic AI system for generating clinically safe discharge summaries from patient records using Python and LangGraph.
+
+# Discharge Summary Agent
+
+Python + LangGraph style agent for discharge summaries.
+
+Features:
+- PDF ingestion
+- Conflict detection
+- Medication reconciliation
+- No-fabrication policy
+- Traceable outputs
